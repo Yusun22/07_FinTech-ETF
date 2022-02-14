@@ -44,11 +44,11 @@ Once confirmed, select all data and use the query to read the PYPL data into a P
 
 PYPL Daily Returns
 
-![PYPL Daily Returns](Images/pypl.png)
+![PYPL Daily Returns](Images/PYPL.png)
 
 PYPL Cumulative Returns
 
-![PYPL Cumulative Returns](Images/pypl_cum.png)
+![PYPL Cumulative Returns](Images/PYPL_cum.png)
 
 ---
 
